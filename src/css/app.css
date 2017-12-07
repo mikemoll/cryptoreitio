@@ -1,0 +1,14 @@
+body {
+  padding-top: 40px;
+  background-image: url(https://preview.ibb.co/hxnonw/houses.jpg);
+}
+
+.welcome {
+  font-size: 18px;
+  display: inline;
+  padding: 5px;
+}
+
+.jumbotron {
+  background-color: #fff;
+}
